@@ -1,7 +1,7 @@
 
 <manifest>
-  <project name="ritik-gupta/device_realme_RMX1901" path="device/realme/RMX1901" remote="github" revision="evoq" />
-  <project name="ritik-gupta/android_device_realme_sdm710-common" path="device/realme/sdm710-common" remote="github" revision="lineage-17.0" />
-  <project name="ritik-gupta/vendor_realme_sdm710-common" path="vendor/realme/sdm710-common" remote="github" revision="android-10" />
+  <project name="Sathamspot/android_device_realme_RMX1901" path="device/realme/RMX1901" remote="github" revision="evoq" />
+  <project name="Sathamspot/android_device_realme_sdm710-common" path="device/realme/sdm710-common" remote="github" revision="lineage-17.0" />
+  <project name="Sathamspot/proprietary_vendor_realme" path="vendor/realme" remote="github" revision="android-10" />
   <project name="Sathamspot/android_kernel_realme_sdm710" path="kernel/realme/sdm710" remote="github" revision="lineage-17.0" />
 </manifest>
