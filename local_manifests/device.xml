@@ -2,6 +2,6 @@
 <manifest>
   <project name="Rebellion-Hub-Devices/device_realme_RMX1901" path="device/realme/RMX1901" remote="github" revision="lineage-17.0" />
   <project name="Rebellion-Hub-Devices/device_realme_sdm710-common_RMX1901" path="device/realme/sdm710-common" remote="github" revision="lineage-17.0" />
-  <project name="Sathamspot/proprietary_vendor_realme" path="vendor/realme" remote="github" revision="lineage-17.0" />
-  <project name="Sathamspot/android_kernel_realme_sdm710" path="kernel/realme/sdm710" remote="github" revision="lineage-17.0" />
+  <project name="Rebellion-Hub-Devices/vendor_realme_RMX1901" path="vendor/realme" remote="github" revision="lineage-17.0" />
+  <project name="Rebellion-Hub-Devices/kernel_realme_RMX1901" path="kernel/realme/sdm710" remote="github" revision="lineage-17.0" />
 </manifest>
